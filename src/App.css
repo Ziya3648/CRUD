@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: MyFont;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+  background-color: #edf1f5;
+}
+
+@font-face {
+  font-family: MyFont;
+  src: url(./assets/fonts/TiltNeon-Regular-VariableFont_XROT\,YROT.ttf);
+}

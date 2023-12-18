@@ -1,0 +1,20 @@
+.card img {
+    height: 200px;
+    object-fit: contain;
+    padding: 5px;
+}
+
+.card{
+    height: 400px;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-body p{
+    margin: 0;
+    padding: 0;
+}
